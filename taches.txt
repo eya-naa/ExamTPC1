@@ -1,4 +1,6 @@
 1- Conception et implementation de nouvelles fonctionnalites selon les specifications definies
 2- Correction de bugs et optimisation du code pour ameliorer les performances 
 4- Participation aux reunion techniques et aux revues de code avec l'equipe
--5 integration et depliement de l'a^pplication dans l'environnement de test ou de production
+5- integration et depliement de l'a^pplication dans l'environnement de test ou de production
+[journalc1 4b73eaf] fichier txt 5
+ 1 file changed, 1 insertion(+)

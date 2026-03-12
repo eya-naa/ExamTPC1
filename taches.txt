@@ -1,0 +1,1 @@
+2- correction de bugs et optimisation du code pour amelioraer les performances.  3- realisation de tests unitaires et mise a jour de la documentation technique

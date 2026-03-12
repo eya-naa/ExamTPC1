@@ -1,1 +1,2 @@
 1- Conception et implementation de nouvelles fonctionnalites selon les specifications definies
+2- Correction de bugs et optimisation du code pour ameliorer les performances 
